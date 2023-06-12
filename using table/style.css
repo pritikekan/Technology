@@ -1,0 +1,16 @@
+table, tr, td{
+    border: 1px solid rgb(214, 213, 213);
+    border-collapse: collapse; 
+    text-align: center;
+    padding: 10px;
+    font-family: 'Roboto Slab', serif;
+    font-size: small;
+}
+.headingMySQL{
+    color: white;
+    background-color:orange;
+}
+.headingMongoDB{
+    color: white;
+    background-color: rgb(5, 188, 29);
+}
